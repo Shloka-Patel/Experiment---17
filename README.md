@@ -7,7 +7,21 @@ To study and implement Linked List in C++.
 Visual Studio Code 
 
 ### Theory 
+A linked list is a fundamental data structure. It mainly allows efficient insertion and deletion operations compared to arrays. Like arrays, it is also used to implement other data structures like stack, queue and deque. <br> 
 
+<b>Comparison of Linked List and Arrays</b> 
+
+<ul><li>Linked List:</li>li>
+<ol><li>Data Structure: Non-contiguous</li>
+<li>Memory Allocation: Typically allocated one by one to individual elements</li>
+<li>Insertion/Deletion: Efficient</li>
+<li>Access: Sequential</li>
+<li>Array:</li></ul>
+<li>Data Structure: Contiguous</li>
+<li>Memory Allocation: Typically allocated to the whole array</li>
+<li>Insertion/Deletion: Inefficient</li>
+<li>Access: Random</li></ol>
+ 
 ### Code       
 (A) <br> 
 ```
