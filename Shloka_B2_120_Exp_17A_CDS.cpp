@@ -40,4 +40,9 @@ using namespace std;
     disp(head);
     //l1.disp(); 
  }  
- 
+
+// Output 
+
+// 30->NULL
+// 32->30->NULL
+// 35->32->30->NULL
