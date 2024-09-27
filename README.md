@@ -57,6 +57,6 @@ using namespace std;
 
 ### Output 
 (A) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---17/blob/main/Output_17A.png) 
 
 ### Conclusion 
