@@ -176,3 +176,4 @@ int main() {
 ![](https://github.com/Shloka-Patel/Experiment---17/blob/main/Output_17B%20.png) 
 
 ### Conclusion 
+linked lists are a powerful data structure for scenarios where dynamic memory allocation and frequent insertions or deletions are required. While they offer flexibility, they may not always be the optimal choice for applications requiring fast random access. Understanding linked lists in C++ provides a strong foundation for mastering more complex data structures and algorithms. 
