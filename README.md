@@ -17,7 +17,7 @@ A linked list is a fundamental data structure. It mainly allows efficient insert
 <li>Insertion/Deletion: Efficient</li>
 <li>Access: Sequential</li></ul>
 <li>Array:</li>
-<li>Data Structure: Contiguous</li>
+<ol><li>Data Structure: Contiguous</li>
 <li>Memory Allocation: Typically allocated to the whole array</li>
 <li>Insertion/Deletion: Inefficient</li>
 <li>Access: Random</li></ol>
