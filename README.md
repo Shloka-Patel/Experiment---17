@@ -11,12 +11,12 @@ A linked list is a fundamental data structure. It mainly allows efficient insert
 
 <b>Comparison of Linked List and Arrays</b> 
 
-<ul><li>Linked List:</li>
+<ul><li>Linked List:</li></ul>
 <ol><li>Data Structure: Non-contiguous</li>
 <li>Memory Allocation: Typically allocated one by one to individual elements</li>
 <li>Insertion/Deletion: Efficient</li>
-<li>Access: Sequential</li></ul>
-<li>Array:</li>
+<li>Access: Sequential</li>
+<ul><li>Array:</li></ul>
 <ol><li>Data Structure: Contiguous</li>
 <li>Memory Allocation: Typically allocated to the whole array</li>
 <li>Insertion/Deletion: Inefficient</li>
