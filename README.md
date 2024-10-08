@@ -8,14 +8,12 @@ Visual Studio Code
 
 ### Theory 
 A linked list is a fundamental data structure. It mainly allows efficient insertion and deletion operations compared to arrays. Like arrays, it is also used to implement other data structures like stack, queue and deque. <br> 
-Linked lists come in several types, including: <br> 
-
+Linked lists are of several types, including: <br> 
 <ol><li>ingly Linked List: Each node points to the next node in the sequence.</li>
 <li>Doubly Linked List: Each node has pointers to both the next and the previous node.</li>
 <li>Circular Linked List: The last node points back to the first node, forming a circle.</li></ol>
 
 <b>Comparison of Linked List and Arrays</b> 
-
 <ul><li>Linked List:</li></ul>
 <ol><li>Data Structure: Non-contiguous</li>
 <li>Memory Allocation: Typically allocated one by one to individual elements</li>
@@ -25,7 +23,7 @@ Linked lists come in several types, including: <br>
 <ol><li>Data Structure: Contiguous</li>
 <li>Memory Allocation: Typically allocated to the whole array</li>
 <li>Insertion/Deletion: Inefficient</li>
-<li>Access: Random</li></ol>
+<li>Access: Random</li></ol> 
  
 ### Code       
 (A) <br> 
